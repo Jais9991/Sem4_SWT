@@ -1,4 +1,4 @@
 h
 Neuer Inhalt :)
 Methode diff zeigen!
-Und auch fetch.
+Und auch fetch. (nun über GitHub Web!)
